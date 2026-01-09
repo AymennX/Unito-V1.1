@@ -24,7 +24,7 @@ Unito is designed to be user-friendly. Once the application is launched, follow 
 1.  **Paste URL:** Enter the YouTube link into the main input field.
 2.  **Select Quality:** Use the dropdown to choose your preferred resolution or audio bitrate.
 3.  **Choose Format:** Toggle between the `Video` and `Audio` tabs.
-4.  **Download:** Click the **"Unito It!"** button.
+4.  **Download:** Click the **"Start Download!"** button.
 
 ### Example Link Formats:
 * **Video:** `https://www.youtube.com/watch?v=example`
@@ -37,7 +37,6 @@ Unito is designed to be user-friendly. Once the application is launched, follow 
 
 ### Prerequisites 📋
 * **Python 3.10+**: Ensure Python is added to your Windows PATH.
-* **FFmpeg**: Required for merging video/audio streams and MP3 conversion.
 * **Internet Connection**: A stable connection is required for high-speed metadata fetching.
 
 ---
