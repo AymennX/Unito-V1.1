@@ -3,7 +3,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 Unito delivers a seamless media downloading experience with a clean Windows-optimized interface:
 
@@ -16,7 +16,7 @@ Unito delivers a seamless media downloading experience with a clean Windows-opti
 
 ---
 
-## 🛠️ Commands & Usage
+## Commands & Usage
 
 Unito is designed to be user-friendly. Once the application is launched, follow these simple steps:
 
@@ -33,15 +33,15 @@ Unito is designed to be user-friendly. Once the application is launched, follow 
 
 ---
 
-## 📋 Requirements
+## Requirements
 
-### Prerequisites 📋
+### Prerequisites
 * **Python 3.10+**: Ensure Python is added to your Windows PATH.
 * **Internet Connection**: A stable connection is required for high-speed metadata fetching.
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
 **IMPORTANT:** You must have **FFmpeg** installed on your system for the downloader to function correctly.
 
@@ -55,10 +55,10 @@ cd Unito-V1.1
 Install the Release from my Github and Extract the Folder then Run (Unito.exe)
 ```
 
-### ❤️ Contribution Guidelines
+### Contribution Guidelines
 
 We welcome community contributions! If you wish to improve the bot, please follow the standard GitHub workflow: fork the repository, make your changes, and submit a pull request for review. For large features, please open an issue first.
 
-# 📄 Licensing
+# Licensing
 
 This project is distributed under the MIT License. See the LICENSE file for full legal details.
